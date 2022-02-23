@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter sent from a countrey gentleman to a friend, a member of the House of Commons concerning the taking of Marleborough : of the disorders of the Parliament souldiers : perswading to an accomodation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48135</idno>
+            <idno type="STC">Wing L1594</idno>
+            <idno type="STC">ESTC R36348</idno>
+            <idno type="EEBO-CITATION">15667041</idno>
+            <idno type="OCLC">ocm 15667041</idno>
+            <idno type="VID">104321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter sent from a countrey gentleman to a friend, a member of the House of Commons concerning the taking of Marleborough : of the disorders of the Parliament souldiers : perswading to an accomodation.</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through, with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Marlborough (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104321:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A LETTER SENT FROM A Countrey Gentleman to a Friend, a Member of the Houſe of <hi>COMMONS:</hi> Concerning the taking of <hi>Marleborough.</hi>
+            </p>
+            <p>Of the diſorders of the Parliament Souldiers; perſwading to an <hi>Accommodation.</hi>
+            </p>
+            <p>Printed in the Yeare. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104321:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:104321:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>A Letter from a Countrey Gentleman to a Friend, a Member of the Houſe of <hi>Commons.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received your paſſionate Letter, and muſt confeſſe my ſelfe extreamly moved by it, but not altogether your way; there is not an expreſſion in the firſt part, to which my heart conſents not: 'tis indeed a ſad and miſerable condition we are fallen into, to be weltring one in anothers bloud, before we know why we are angry; and to ſee our Houſes and Towns fired, and our Neighbours and Friends taken Priſoners, by men who do not onely ſpeak the ſame language with us, but are of our own Families, and of the ſame (or ſeeme to be of the ſame) Religion; ſo that (as you ſay) you may well wonder, how men who take ſuch different wayes, can pretend they deſire the ſame ends. I have thus farre kept you company very wil<g ref="char:EOLhyphen"/>lingly, with the ſame grief and amazement, but when you ſeeme to lay this fault wholly upon the King and his followers (whom you accuſe of great rapine, cruelty, and inhumanity;) you muſt give me leave to diſſent from you upon ſuch reaſons as (if I have not for<g ref="char:EOLhyphen"/>feited the eſteem I have had with you will make ſome impreſſion in you.</p>
+            <p>You know how farre I have alwayes concurred with you, and ſwayed by the ſingular regard I have had of your wiſdom and inte<g ref="char:EOLhyphen"/>grity, given up much of my underſtanding to your Authority, and upon that ſcore you know have done ſomewhat my own judgement would not now warrant, very much to the ſervice of the Parlia<g ref="char:EOLhyphen"/>ment, from whom I received publique thankes; and therefore I had reaſon to expect more protection, at leaſt leſſe dammage from any forces maintained and imployed by them, then from the Kings Ar<g ref="char:EOLhyphen"/>my, with whom I could not but know my ſelfe to be in a juſt preju<g ref="char:EOLhyphen"/>dice;
+<pb n="2" facs="tcp:104321:3"/>
+               <!-- PDF PAGE 3 -->and when you know now that I have been viſited by the Soul<g ref="char:EOLhyphen"/>diers of both Armies, you will beleeve me a competent Reporter of their behaviours.</p>
+            <p>It was my turn firſt to receive your Troopers, 300 of them being quartered at this Town, no fewer then 30 diſpoſed themſelves to my houſe; I received them as friends, and you know am not uſually very ill provided for the entertainment of as good a company: ma<g ref="char:EOLhyphen"/>ny of them were Commanders, and undertook to tell me, my affe<g ref="char:EOLhyphen"/>ction was very eminent to the Perſons who imployed them, ſo that I confeſſe I looked for no other preſſures from them, then the charge of that nights receiving them.</p>
+            <p>And 'tis true they left me the next morning, but ſo unhandſome<g ref="char:EOLhyphen"/>ly, that beſides the inſolency of finding fault, and command<g ref="char:EOLhyphen"/>ing all my ſervants, (having uſed my ſelf and my children with great pride and incivility) they ſpoyled more of my goods of all ſorts, then they had ſpent, (though they muſt confeſſe they wanted nothing but the honeſty to deſerve it) and pilfered and ſtole many things of value, telling me to my face, that it was neceſ<g ref="char:EOLhyphen"/>ſary to make that waſte, that the Cavaliers might be diſappointed: And indeed the night following the Cavaliers came, double the number to my houſe, that had been there before, commanded onely by the Coronet of the Troope, (whereas of the other there were not fewer then ten Officers, whereof four were Captains) you will imagin the trim uſage I had from thoſe, who told me they came to defend me, had not left me courage to ſtand the ſhock of another entertainment of thoſe, who could not but heare ſome<g ref="char:EOLhyphen"/>what of me, which might expoſe me to their fury, at leaſt would juſtifie any exceſſe towards me; I gave direction they ſhould be as well treated as my ſtore would beare, though in truth the vile li<g ref="char:EOLhyphen"/>cence of the fore-runners had not left me ordinary proviſion for horſe or man, and withdrew my ſelf to that honeſt Parſons houſe, who diſputed with you when you were laſt here; and was by him privately ſheltred (though many Souldiers were then with him too) from diſcovery.</p>
+            <pb n="3" facs="tcp:104321:3"/>
+            <!-- PDF PAGE 3 -->
+            <p>The Company removed the next morning, and they were not gone two houres from my houſe before I returned thither, where I aſſure you I found all things as orderly, as unſpoyled, as if my beſt friends had been my gueſts, and one of my ſervants told me, that he had rather meet with 100. Cavaliers, then 10 Round-heads: 'tis true, they had as good proviſion for themſelves and their horſes as could be made, which they received with ſo much Civility to all my ſervants, as if they thought themſelves beholding to them for it (though it was much worſe then had been given the day before) and departed without the leaſt diſorder.</p>
+            <p>For the buſineſſe of <hi>Marleborough,</hi> which you ſay was carryed with ſo much fierceneſſe and barbarity in firing and plundring the Town, I beleleeve you have not that relation ſo perfectly, and inge<g ref="char:EOLhyphen"/>nuouſly made to you, as in truth the matter will beare; you muſt thinke my information is not partiall on the Kings part, when I re<g ref="char:EOLhyphen"/>ceive it from one who fled to a friends houſe of mine for ſhelter, and loſt at leaſt the value of 300 <abbr>l.</abbr> by the Kings Souldiers in that Town.</p>
+            <p>You know well how that Town hath behaved it ſelf all this yeer, in raiſing great ſummes of money againſt the King (for that the Army which hath given him Battell, is not againſt him, can no longer be underſtood) in gathering and exerciſing Souldiers, as if they defied any Enemy, how they ſeized upon His Majeſties pro<g ref="char:EOLhyphen"/>viſions, bought and paid for by His Commiſſary of the victuals for the ſupply of <hi>Redding,</hi> and would not ſuffer them to be carryed thi<g ref="char:EOLhyphen"/>ther. The King could not but thinke of reducing this place, and to that purpoſe ſent the Lieutenant General of His Horſe (a Gentleman, whatever vote you pleaſe to paſſe upon him, of great reputation in the Countreys through which he paſſes, for his ſober government of his charge) with Inſtructions, moſt ſutable to his nature, That if his reception into that Town, was ſuch as be<g ref="char:EOLhyphen"/>came them to give, he ſhould ſuffer no violence to be exerciſed by the Souldiers, but ſhould bring away the Arms which had been ſo
+<pb n="4" facs="tcp:104321:4"/>
+               <!-- PDF PAGE 4 -->ill uſed, and ſome ſeditious Perſons who had infected that place, and put His Majeſtie to that trouble, with ſome other directions that ſufficiently expreſſed a care of that people, and a willingneſſe to be<g ref="char:EOLhyphen"/>leeve them in the number of His Subjects.</p>
+            <p>When this piece of the Army (the reputation of which might well have diſperſed that rabble) by ſlow marches, had brought it ſelf within a little diſtance of the Town, a fellow ſent by the fooliſh Knave <hi>Franklin,</hi> who they ſay hath brought all this calamity upon a place he hath been long in ſpoyling, came to them with a ridiculous Letter of adviſe, to a perſon of Honour amongſt them.</p>
+            <p>The Meſſenger who might have expected worſe uſage, was brought before the Lieutenant Generall, who cauſed all the men to be ranged before him, then asked him, whether he thought the ſtrength of that Town could reſiſt that force, the fellow anſwered, it could not reſiſt a quarter of that power: Get your wayes then (ſaid that Gentleman) to your friends, and tell them what you have ſcene, if they throw down their Armes, and ſubmit themſelves to His Majeſtie, they ſhall be uſed like friends, and receive no prejudice by the Souldiers, but if they make reſiſtance, and force us to enter the Town in bloud, it will not be in my power to preſerve them. The man returned, did his errand in the preſence of him who gives me this account, and who immediately fled, when he found the per<g ref="char:EOLhyphen"/>verſneſſe of that <hi>Franklin</hi> would neither ſubmit to the advice, or ſuffer it to be communicated to the reſt of the Town: When the Army advanced, all poſſible reſſiſtance was made, and many Soul<g ref="char:EOLhyphen"/>diers of the Kings dangerouſly wounded, out at windows, and from their works, inſomuch as they were compelled to burn ſome houſes, in which Muſqueteers were placed to give fire upon them.</p>
+            <p>Thinke ſadly with your ſelves, how your Army (which com<g ref="char:EOLhyphen"/>mitted ſuch outrages and plundrings in the poore Citie of <hi>Wincheſter,</hi> where the Gates were opened to them, and no ſhew of reſiſtance made by the people of that place) would have requited ſuch oppo<g ref="char:EOLhyphen"/>ſition, nay was it ever known, that after ſuch a contention leſſe then
+<pb n="5" facs="tcp:104321:4"/>
+               <!-- PDF PAGE 4 -->a ſlaughter of the Enemy, and a ſacking of the Town followed? yet as there as nothing of the firſt here, ſo there was ſo little of the other (and yet more I beleeve then the Commanders could have wiſhed) that they have onely cauſe to curſe thoſe who drew ſuch viſi<g ref="char:EOLhyphen"/>tants to them.</p>
+            <p>But no more of theſe particulars, let us rather raiſe a compaſſion one towards another out of the conſideration of theſe miſeries, and to what height they will in a ſhort time be improved, then contract a bitterneſſe, and hatred againſt thoſe with whom we muſt live hap<g ref="char:EOLhyphen"/>pily, if there be any hope of happineſſe left for this poore Kingdom.</p>
+            <p>You will thinke this a ſtrange dialect for me to uſe, whom you have known to concurre with the fierceſt men in the fierceſt reſoluti<g ref="char:EOLhyphen"/>ons; but if you were out of the Houſe of Commons, where all Ar<g ref="char:EOLhyphen"/>guments tending one way, beget a generall conſent in opinion, and ſo whatever is thought eaſie is concluded lawfull, and ſpent one Moneth with me in the Countrey (though you know it is a place was never fondly devoted to the Kings command) you would obſerve a ſtrange dejection in the ſpirits of the people, and if I am not cozened, an inquiſitiveneſſe, by queſtions they did not uſe to aske, <hi>Who raiſed Arms firſt? Why they did it? What the Common-wealth wanted? Whether the King hath denyed any thing was not in his lawfull power to deny? Whe<g ref="char:EOLhyphen"/>ther the preferring half a ſcore perſons</hi> (for they ſay, all theſe calamities have grown from no more, and ſome will undertake to name them) <hi>be of that value, that ſo many widows muſt be made, ſo many children fa<g ref="char:EOLhyphen"/>therleſſe, and ſuch a deſolation brought upon the whole Kingdom for them?</hi> with the like queſtions, which in a little time may raiſe ſuch a ſtorm, as the cunning and power of both houſes cannot allay.</p>
+            <p>'Tis true, they do yet yeeld ſome obedience to the terrible war<g ref="char:EOLhyphen"/>rants which ſummon them to appeare with their Arms in your com<g ref="char:EOLhyphen"/>mands, but with ſuch grumbling, and unwillingneſſe, ſuch a pe<g ref="char:EOLhyphen"/>remptorineſſe not to fight, that I ſhould thinke my ſelf very unſafe with a guard of 5000. of them.</p>
+            <p>Let me tell you, ſince the buſineſſe at <hi>Edge hill,</hi> the inclinations
+<pb n="6" facs="tcp:104321:5"/>
+               <!-- PDF PAGE 5 -->even of the hotteſt men in our Countrey are ſtrangely ſtartled and perplexed, not with the ſenſe of being beaten (whether that were ſo, or to ſuch a degree, is not materiall) but with the apprehenſion of the known extream viſible danger the perſon of the King (whom we had all ſo often ſworn to defend, and for the preſervation of whoſe perſon the Countrey people beleeved even this Army to be raiſed) was that day in; beleeve it you will never be able more to perſwade them, that ſo many Canon and Musket ſhot were made at him for the ſafety of his Perſon.</p>
+            <p>And theſe Conſiderations do not onely make impreſſion in us here, but have had a great influence with men whoſe Affection, and courage you do not ſuſpect. I aſſure you one of your chiefe Leaders (you will eaſily gueſſe the man by what he hath ſince done, told me, and he told it me in the hearing of four or five of your moſt active friends) that in a week after that battel he ſlept not an houre with the horrour of the thought, what it was to kill the King, and had that agony of ſoule about him, that he would not endure again ſo long for the greateſt preferment in the Kingdom.</p>
+            <p>One of the ſlanders by (who uſed that induſtry to gather up the Arms about the Field, and ſent them to you to <hi>Warwicke</hi>) ſharply anſwered him, If he had gone to bed in his right minde, he would have dreamed that he was reſcuing the King out of the hands of Theeves, and would have feared no accidents: he replyed ſoberly, that ſuch Arguments do ariſe from the warmth and faction of de<g ref="char:EOLhyphen"/>bate, never are ſupplyed out of the innocence of ſleepe. I beſeech you (ſaid the other ſcornfully) what medicine have you ſince ap<g ref="char:EOLhyphen"/>plyed to your ſelf, for the recovery of your reſt: Repentance, ſaith he, and reſolution to be madde no more. It had been well, ſaid the other, you had ſlept firſt, for now me thinks this reſolution ſeems but an effect of your madneſſe. I am content (he replyed with an angry ſmile) you ſhould thinke ſo, but when you come home, recol<g ref="char:EOLhyphen"/>lect all that I have ſaid to you this day, and if I am not deceived, you will change your minde too. He hath been as good as his word,
+<pb n="7" facs="tcp:104321:5"/>
+               <!-- PDF PAGE 5 -->you never ſaw ſuch an alteration in a man, ſuch a ſadneſſe and damp of ſpirit, and he proteſted to my yeſterday, if a peace were not concluded ſpeedily, we ſhould have our Chriſtianity ſuſpected, and be beaten out of all places with ſtones by the people.</p>
+            <p>Sir, truſt me, it concerns you, it concerns us all, that you finde ſome way to quiet and compoſe theſe diſtracti<g ref="char:EOLhyphen"/>ons. It is not the name of a Parliament, of evill Coun<g ref="char:EOLhyphen"/>ſellours, Malignant Cavaliers, and other hard words will keep the people longer aſleep to their own ruine: you may remember the Councell-Table, yea, and the Star-Chamber too, names of reverence, but when they left their Juſtice, they loſt their reputation; neither was Ship-money grievous, becauſe it was a ſupply to the King, (Let us not deceive our ſelves, Engliſhmen natu<g ref="char:EOLhyphen"/>rally love their King, and what ſtarts ſoever they may make, will retire into their loyalty, to the ruine of their ſeducers;) but becauſe it did, or might take more from them then they were willing or able to ſpare, and what power ſoever doth, or endeavours to do the ſame things, will have the ſame fate in the affections of the people.</p>
+            <p>Do you thinke the condition of the poore Countrey<g ref="char:EOLhyphen"/>man hath not ſuffered a ſad alteration, from a State (in which you found him) wherein he knew what was his own, and was not capable of any violence, for which he was not ſure of a remedy and reparation, to this wherein he receives commands under the penalty of plun<g ref="char:EOLhyphen"/>dring and hanging, from perſons of whom he never heard, for Horſes, for Money, for perſonall attendance, of which, as he can finde no ground, ſo he can hope for no end; and ſees the twentieth part of his eſtate taken from
+<pb n="8" facs="tcp:104321:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->him, to continue and maintain a calamity, which makes all the reſt of no uſe to him? I ſay again, no cunning, wit, and induſtry will longer bewitch the people to this folly and tameneſſe.</p>
+            <p>A blunt neighbour of mine told me yeſterday, that the Parliament had ill luck, is diſcountenanced all men, whoſe Wiſdom, Juſtice, and Charity, the Countrey could con<g ref="char:EOLhyphen"/>fide in, and confided in none ſo much as in thoſe who are onely known by the ill they have heretofore done; and asked me whether my Lord <hi>Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohford, Feilding,</hi> and <hi>Haſt<g ref="char:EOLhyphen"/>ings</hi> were not like to be precious Inſtruments of a Refor<g ref="char:EOLhyphen"/>mation: I anſwered, Great Councells were not to be un<g ref="char:EOLhyphen"/>dervalued by the meanneſſe or unworthineſſe of ſome of their members. He replyed, 'Twas true, when the Coun<g ref="char:EOLhyphen"/>cells juſtified themſelves; but 'twas time to looke upon the particular perſons, when nothing was ſaid in defence of the Actions, but the power and reputation of the Actors.</p>
+            <p>Theſe skirmiſhes I meet with, even with thoſe, who when you and I parted, were in the Catalogue of your fol<g ref="char:EOLhyphen"/>lowers, if there be the ſame alteration in other places, on my word it will not be long in your power to make ſo good an end of theſe troubles, as now it is. For Gods ſake call up all that is of prudence and generoſity about you, and if there be any thing I have ſaid moves you, impart it to our friends in Red croſſe<g ref="char:EOLhyphen"/>ſtreet, and joyn all your endeavours for a happy Accomodation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
